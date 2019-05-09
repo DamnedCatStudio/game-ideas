@@ -61,9 +61,9 @@ Where do we want to build? Different platforms have different player bases. Cros
 ## The money talk...
 It would be nice to make a game or games that are not only fun, but could provide some regular income. However a lot of games have taken things, like micro-trasactions to stupid levels...
 1. A game should never be pay-to-win 
-  i.  micro-transactions should never give a player an unfair advantage
-  ii. paying to refill "energy" to be able to play a game is also bull shit.
+..1. micro-transactions should never give a player an unfair advantage
+..2. paying to refill "energy" to be able to play a game is also bull shit.
 2. Cosmetics are fine, new skins or exclusives
 3. DLC
-  i. A games plot should be finished WITHOUT needing to buy DLC to finish a story arc.
+..1. A games plot should be finished WITHOUT needing to buy DLC to finish a story arc.
 4. Arcade friendly additions of certian games might be neat and rekindle a dying industry (arcades).
